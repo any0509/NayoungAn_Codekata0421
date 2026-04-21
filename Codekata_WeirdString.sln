@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Codekata_WeirdString", "Codekata_WeirdString\Codekata_WeirdString.vcxproj", "{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}.Debug|x64.ActiveCfg = Debug|x64
+		{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}.Debug|x64.Build.0 = Debug|x64
+		{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}.Debug|x86.Build.0 = Debug|Win32
+		{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}.Release|x64.ActiveCfg = Release|x64
+		{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}.Release|x64.Build.0 = Release|x64
+		{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}.Release|x86.ActiveCfg = Release|Win32
+		{3D847B10-79AE-43BC-9E1E-81C8D4F8AB8D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E582BEA-6C06-4758-917B-08D9C465171F}
+	EndGlobalSection
+EndGlobal
